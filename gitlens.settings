@@ -1,0 +1,10 @@
+"gitlens.codeLens.enabled": false,
+"gitlens.currentLine.enabled": true,
+"gitlens.hovers.enabled": true,
+"gitlens.statusBar.enabled": false,
+"gitlens.views.repositories.enabled": false,
+"gitlens.views.remotes.enabled": false,
+"gitlens.views.stashes.enabled": false,
+"gitlens.views.worktrees.enabled": false,
+"gitlens.showWelcomeOnInstall": false,
+"gitlens.showWhatsNewAfterUpgrades": false
