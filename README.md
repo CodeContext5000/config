@@ -1,2 +1,3 @@
 # config
-dotfiles, config and other useful snippets
+
+Basic repo for dotfiles, config files, and other useful snippets.
